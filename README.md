@@ -19,3 +19,16 @@ The organization wants to analyze employee attrition data so that HR managers ca
 - Which factors contribute most to employee attrition?
 
 - Dashboard interaction <a href="https://github.com/yamini319/HR-Data-Analysis-Dashboard/blob/main/Screenshot%202026-05-29%20100932.png">View Dashboard<a/>
+
+## Process
+## Process
+- Cleaned and organized the HR dataset.
+- Analyzed employee data using Pivot Tables.
+- Created charts and KPIs to identify attrition trends.
+- Added slicers for interactive filtering.
+- Designed an interactive HR Analytics Dashboard in Excel.
+
+  ## Dashboard
+
+  <img width="1537" height="761" alt="Screenshot 2026-05-29 100932" src="https://github.com/user-attachments/assets/4bee46ff-cea5-4b9a-ba30-6abcab3f0f83" />
+
