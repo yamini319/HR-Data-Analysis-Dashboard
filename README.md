@@ -40,7 +40,7 @@ The organization wants to analyze employee attrition data so that HR managers ca
 - Employees with a Bachelor's Degree contribute the highest attrition.
 - Attrition patterns vary across gender, education level, and marital status.
 
-  ## Final Conclusion
+## Final Conclusion
 
-The analysis shows that employee attrition is concentrated among specific departments, job roles, and age groups. By focusing on retention strategies, employee engagement, and career growth opportunities for high-risk employee segments, the organization can reduce attrition and build a more stable and productive workforce.
+ The analysis shows that employee attrition is concentrated among specific departments, job roles, and age groups. By focusing on retention strategies, employee engagement, and career growth opportunities for     high-risk employee segments, the organization can reduce attrition and build a more stable and productive workforce.
 
