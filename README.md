@@ -1,4 +1,4 @@
-# HR-Data-Analysis-Dashboard (Interactive Dashboard Creation using MS Excel)
+# HR-Data-Analysis (Interactive Dashboard Creation using MS Excel)
 ## project objective
 The organization wants to analyze employee attrition data so that HR managers can identify patterns, understand workforce behavior, and develop effective employee retention strategies.
 
