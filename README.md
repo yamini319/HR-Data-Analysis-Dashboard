@@ -5,21 +5,17 @@ The organization wants to analyze employee attrition data so that HR managers ca
 ## Dataset used
 - <a href="https://github.com/yamini319/HR-Data-Analysis-Dashboard/blob/main/HR%20DATA_Excel.xlsx">Dataset<a/>
 
-##Questions (KpIs)
+## Questions (KPIs)
+
 - What is the total number of employees in the organization?
-- How many employees have left the organization?
-- What is the employee attrition rate?
-- How many employees are currently active?
-- What is the average age of employees?
+- What is the overall employee attrition rate?
 - Which department has the highest attrition?
-- Which job role has the highest attrition?
-- Which age group experiences the highest attrition?
+- Which job role experiences the highest attrition?
+- Which age group has the highest employee attrition?
 - How does attrition vary by gender?
-- How does attrition vary by education field?
-- How does marital status affect employee attrition?
-- What is the distribution of employees across departments?
-- Which education level has the highest attrition?
-- What is the retention rate of employees?
-- Which employee demographic group is most likely to leave the organization?
+- How does attrition vary across different education levels?
+- Which marital status category has the highest attrition?
+- What is the average age of employees?
+- Which factors contribute most to employee attrition?
 
 - Dashboard interaction <a href="https://github.com/yamini319/HR-Data-Analysis-Dashboard/blob/main/Screenshot%202026-05-29%20100932.png">View Dashboard<a/>
