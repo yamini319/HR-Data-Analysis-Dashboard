@@ -22,4 +22,4 @@ The organization wants to analyze employee attrition data so that HR managers ca
 - What is the retention rate of employees?
 - Which employee demographic group is most likely to leave the organization?
 
-- Dashboard interaction <a 
+- Dashboard interaction <a href="https://github.com/yamini319/HR-Data-Analysis-Dashboard/blob/main/Screenshot%202026-05-29%20100932.png">View Dashboard<a/>
